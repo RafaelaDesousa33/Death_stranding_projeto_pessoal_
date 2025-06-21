@@ -1,0 +1,182 @@
+#container {
+
+    width: 900px;
+    height: 700px;
+    position: relative;
+    left: 300px;
+    clear: both;
+    font-family: Courier, monospace;
+    font-weight: bold;
+    /* background-color: rgb(159, 176, 176); */
+
+
+
+}
+
+body {
+
+    background-image: url(fundo_pagina1.png);
+
+    /* background-color: rgb(23, 21, 21); */
+
+
+}
+
+
+.logo {
+    width: 300px;
+    position: relative;
+    top: 20px;
+}
+
+#cabecalho {
+    text-align: center;
+    clear: both;
+
+
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+button:hover{
+    color: orange;
+}
+
+li {
+    float: left;
+    padding: 40px;
+    list-style: none;
+    position: relative;
+    left: 20px;
+    background: none;
+}
+
+a:hover{
+    color: orange;
+}
+
+
+
+.conteudo {
+
+    clear: both;
+    position: relative;
+    left: 50px;
+    top: 90px;
+    margin: 50px;
+    width: 600px;
+    height: 300px;
+
+
+}
+
+.fundo {
+
+    width: 700px;
+    position: relative;
+    top: -100px
+}
+
+button {
+    position: relative;
+    top: 100px;
+    color: white;
+    left: 300px;
+    padding: 10px;
+    background-color: rgb(196, 173, 132);
+}
+
+
+/*curiosidades pagina */
+
+#curiosidades {
+    background-image: url(fundo_pagina.png);
+    color:white;
+
+}
+
+p {
+    clear: both;
+    color: white;
+}
+
+/*compras pagina */
+
+#compras {
+    background-image: url(fundo_pagina.png);
+}
+
+.box1 {
+    clear: both;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    right: 100px;
+    top: 90px;
+    background-color: orange;
+    float: left;
+
+
+
+}
+
+.box2 {
+
+    clear: both;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 90px;
+    background-color: orange;
+    position: relative;
+    left: 400px;
+    top:-310px;
+    margin: 20px;
+
+}
+
+
+
+.img-box1 {
+    width: 400px;
+
+}
+
+.img-box2 {
+
+    width: 400px;
+
+}
+
+#botao2_compras{
+    position: relative;
+    top:10px;
+}
+
+
+/* jogabilidade */
+
+#jogabilidade{
+    background-image: url(fundo_pagina.png);
+    color: white;
+    
+}
+
+#h2-jogabilidade{
+    clear: both;
+    position: absolute;
+    top:90px;
+    left: 300px;
+}
+
+.jogabilidade_p{
+    position: relative;
+    top:90px;
+
+
+}
+
